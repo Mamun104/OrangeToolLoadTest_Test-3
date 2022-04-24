@@ -16,7 +16,7 @@
 
 3.Give following command:
 
-           jmeter -n -t SendWaveDemoSiteLoadTest.jmx -l log.csv -e -o Reports
+           jmeter -n -t OrangeToolsLoginTest.jmx -l log.csv -e -o Reports
            
  # Screenshots
  
